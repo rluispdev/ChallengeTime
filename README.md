@@ -22,6 +22,7 @@ Este projeto é um desafio para explorar os conceitos básicos do SwiftUI:
 - Framework: SwiftUI
 - IDE: Xcode
 - Controle de Versão: Git
+- MVVM
 
 ## 💻 Como Executar o Projeto
 
