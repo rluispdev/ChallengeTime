@@ -1,0 +1,18 @@
+//
+//  ShapeView.swift
+//  ChallengeTime
+//
+//  Created by Rafael Gonzaga on 06/07/24.
+//
+
+import SwiftUI
+
+struct ShapeView: View {
+    var body: some View {
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+    }
+}
+
+#Preview {
+    ShapeView()
+}
